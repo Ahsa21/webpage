@@ -29,6 +29,8 @@ body {
     width: 250px;
     height: 150px;
     margin-bottom: 50px;
+    border-radius: 30px;
+    border: solid white;
 }
 
 .ul-head {
@@ -55,12 +57,14 @@ a {
 .logo {
     padding-left: 140px;
     font-size: 24px;
+    
 }
 
 .logo-img {
     width: 80px;
     height: 80px;
     border-radius: 50%;
+    border: solid;
 
 }
 
